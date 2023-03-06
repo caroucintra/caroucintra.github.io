@@ -2,14 +2,14 @@ import './App.css';
 import Home from './components/pages/Home/Home';
 import WebQuest from './components/pages/WebQuest/WebQuest';
 
-import {Routes, Route} from 'react-router-dom';
+import {Routes, Route, withRouter} from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
         <Routes>
-          <Route exact path='/' element={<Home/>}/>
-        <Route exact path='/webquest' element={<WebQuest/>}/>
+          <Route exact path='' element={<Home/>}/>
+          <Route exact path='/webquest' element={<WebQuest/>}/>
         </Routes>
     </div>
   );
