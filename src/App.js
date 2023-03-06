@@ -1,19 +1,17 @@
 import './App.css';
-import {BrowserRouter as Router, Route, Routes} from 'react-router-dom';
 import Home from './components/pages/Home/Home';
 import WebQuest from './components/pages/WebQuest/WebQuest';
 
+import {Routes, Route} from 'react-router-dom';
+
 function App() {
   return (
-    <>
-    <Router>
-      <Routes>
-        <Route path='/' element={<Home/>}/>
-        <Route path='/webquest' element={<WebQuest/>}/>
-      </Routes>
-    </Router>
-      
-    </>
+    <div className="App">
+        <Routes>
+          <Route exact path='/' element={<Home/>}/>
+        <Route exact path='/webquest' element={<WebQuest/>}/>
+        </Routes>
+    </div>
   );
 }
 
