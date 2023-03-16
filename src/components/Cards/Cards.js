@@ -18,6 +18,14 @@ function Cards() {
                     <CardItem
                     text='The purpose of this WebQuest is to tackle core and simple concepts of gender theory, to understand the view of gender as a spectrum, and bring awareness to the struggles of those who fight to make this theme broadly understood. Another goal is to get to know different and less-known gender identities. Later, there’s a possibility to dive deeper into some - not so simple - concepts and theories.'/>
                 </ul>
+                <ul className='cards__items'>
+                    <CardItem
+                    text={"This is a matter of great importance because, according to ILGA’s Relatório Anual de Discriminação contra pessoas LGBTI+, the filed complaints of  crimes against LGBTQI+ people were a total of 89 in 2019. As it is known, considerable people who are victims of hate crimes don’t file them over fear or lack of trust in the public system, which makes this number almost an approximation - in reality the number of cases is probably higher."}/>
+                </ul>
+                <ul className='cards__items'>
+                    <CardItem
+                    text={"The transgender community is a big part of the LGBTQI+ community and most likely the part that is least talked about in the media. This WebQuest has the goal of teaching a little bit about how this community was created and matured and how it should be treated and integrated in our society - while hopefully showing that respect comes from every one of us and is a powerful tool."}/>
+                </ul>
             </div>
         </div>
         <h1 id="tasks">⭒ Tasks</h1>
@@ -51,10 +59,6 @@ function Cards() {
                     text='For this second step, focus on understanding what is called ‘gender dysphoria’. Use the resources in Group 1.2 to list characteristics of this phenomenon - either relating to the different ways it manifests or the different ways to relieve it.'
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Similarities between gender and sex'
@@ -65,10 +69,6 @@ function Cards() {
                     text='Many people still see gender and sex as the same concept, but the resources in Group 1.4 will help you see that they might not be. For this step, find evidence that proves the two words mean different things.'
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Understanding gender transitioning'
@@ -95,10 +95,6 @@ function Cards() {
                     text='Similarly to the previous step, you must characterize the gender-fluid identity, one of the identities that fall under the non-binary label. This identity is commonly overlooked when talking about the gender non-conforming community. Use the resources in Group 2.2 to learn more about the term and characterize it, knowing that its definition is highly attached to the concept of non-binary.'
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Defining agender identity'
@@ -141,10 +137,6 @@ function Cards() {
                         ]}
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Group 1.3'
@@ -178,10 +170,6 @@ function Cards() {
                         ]}
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                 <CardItem
                     title='Group 1.5'
@@ -247,10 +235,6 @@ function Cards() {
                         ]}
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                 <CardItem
                     title='Group 2.3'
@@ -277,63 +261,47 @@ function Cards() {
                 <ul className='cards__items'>
                     <CardItem
                     title='Step 1.1'
-                    text={"In this step, if you created an answer that:\n- Includes the definition of the word transgender → 25%\n- Includes the fact that the transgender self-discovery process is different for everyone → 25%\n- Includes at least 2 challenges that transgender people face, briefly described → 50%"}
+                    text={"In this step, your answer should have in mind the definition of the word transgender, the fact that the transgender self-discovery process is different for everyone and the challenges that transgender people face, briefly described."}
                     />
                     <CardItem
                     title='Step 1.2'
-                    text={"For this second step, you should give 2 examples of:\n- How dysphoria manifests\n- How to relieve its symptoms\nIf you wrote only 1 example of either or 2 examples of one of the questions but forgot the other, you get only 50%."}
+                    text={"For this second step, you should give 2 examples of:\n- How dysphoria manifests\n- How to relieve its symptoms"}
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Step 1.3'
-                    text={"In this step, you should recall the 3 questions made: “What is gender transitioning? Is it necessary for every transgender person? How do people feel about themselves afterward?”.\nIf you managed to answer with the definition of gender transitioning (first question) correctly, you get 50%.\nThe second answer should be a little more developed than the third, because the question requires a more in dept answer. That makes the percentages of the answers 30% and 20%, respectively."}
+                    text={"In this step, you should recall the 3 questions made: “What is gender transitioning? Is it necessary for every transgender person? How do people feel about themselves afterward?”.\nThe second answer should be a little more developed than the first and the third, because the question requires a more in dept answer. Having that in mind when creating the answer results in a complex and complete view."}
                     />
                     <CardItem
                     title='Step 1.4'
                     text='You answer for this step can be really simple, or really complex. By watching the YouTube videos by BigThink and PhilosophyTube, you probably learned more about gender performativism, and the essentialist and social construvist theories. If your answer referenced such terms, it is complex enough for this WebQuest - and your teacher should grade it as such.'
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Step 1.5'
-                    text='This step presents the hardest question to answer. It is very important to remember that this topic is still discussed between psychologists, and it’s a tricky opinion to understand of something very well known to every human being. If you answered with your own opinion, but had in mind that the two sexes are a generalization of what is seen as a bimodal system with arbitrary attributes, you earn more points. Because of this question’s nature and complexity, the judgment to grade it is almost fully up to the teacher.'
+                    text='This step presents the hardest question to answer. It is very important to remember that this topic is still discussed between psychologists, and it’s a tricky opinion to understand of something very well known to every human being. Try to consider, besides your own opinion, the vision that the two sexes are a generalization of what is seen as a bimodal system with arbitrary attributes. Because of this question’s nature and complexity, the judgment to grade it is fully up to the teacher.'
                     />
                     <CardItem
                     title='Step 1.6'
-                    text={"This last step of the task asks you to conclude from the previous work, and suggest changes to the system we know.\n- If you mentioned being transgender → +10%\n- If you mentioned needing transitioning because of dysphoria → +15%\n- If you mentioned the material necessity of gender in our society and how it creates in imbalanced view of each gender → +25%\n- If you found that a binary system can be hurtful to everyone, and we would all benefit from a broader view of gender and sex → +50%"}
+                    text={"This last step of the task asks you to conclude from the previous work, and suggest changes to the system we know.\nNow you know a little bit about being transgender, needing transitioning because of dysphoria, the material necessity of gender in our society and how it creates in imbalanced view of each gender. The goal for this question is to create even more empathy for this community, and hopefully conclude that a binary system can be hurtful to everyone, and we would all benefit from a broader view of gender and sex."}
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Step 2.1'
-                    text={"The first step of the second task asks you to search for what is means to be non-binary.\n- If you mentioned that non-binary is an umbrella term for different gender identities, and what those identities are → 25%\n- If you mentioned that non-binary people are also trans, and why → 25%\n- If you defined what being non-binary is → 50%"}
+                    text={"The first step of the second task asks you to search for what is means to be non-binary. Its definition is a necessity for this question, but you should notice that this term is an umbrella term for different gender identities and those people are included in the trans community."}
                     />
                     <CardItem
                     title='Step 2.2'
-                    text={"This step asked you to search for gender-fluidity.\n- If you gave the correct definition of the term → 50% \n- If you considered the differences between gender-fluid and non-binary → 25%\n- If you considered that gender identities are not a fixed thing and can change overtime → 25%"}
+                    text={"This step asked you to search for gender-fluidity. You should search for the correct definition of the term, consider the differences between gender-fluid and non-binary identities, and hopefully conclude that, for many people, gender identities are not a fixed thing and can change overtime."}
                     />
                 </ul>
-            </div>
-        </div>
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Step 2.3'
-                    text={"In the last step, while searching the agender identity, you must've found:\n- It's different defintions → 50% \n- A little bit about the history of the term → 25%\n- Pronouns, the differences from other gender identities, and other minor details → 25%"}
+                    text={"In the last step, while searching the agender identity, the definitions of the term can be found, as well as its history and its differences from other gender identities. If you made sure to give a good read to this and learn a little bit more on how to understand this community, then you did a great job!"}
                     />
                 </ul>
             </div>
