@@ -200,11 +200,6 @@ function Cards() {
                         ]}
                     />
                 </ul>
-            </div>
-        </div>
-
-        <div className='cards__container'>
-            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                 <CardItem
                     title='Group 2.1'
