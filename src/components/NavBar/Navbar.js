@@ -31,34 +31,34 @@ function Navbar() {
             </div>
             <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                 <li className='nav-item'>
-                    <a href="#intro" className='nav-links' onClick={closeMobileMenu}>
+                    <Link to="/webquest" className='nav-links' onClick={closeMobileMenu}>
                         Introduction
-                    </a>
+                    </Link>
                 </li>
                 <li className='nav-item'>
-                    <a href="#tasks" className='nav-links' onClick={closeMobileMenu}>
+                    <Link to="/webquest/tasks" className='nav-links' onClick={closeMobileMenu}>
                         Tasks
-                    </a>
+                    </Link>
                 </li>
                 <li className='nav-item'>
-                    <a href="#process" className='nav-links' onClick={closeMobileMenu}>
+                    <Link to="/webquest/process" className='nav-links' onClick={closeMobileMenu}>
                         Process
-                    </a>
+                    </Link>
                 </li>
                 <li className='nav-item'>
-                    <a href="#resources" className='nav-links' onClick={closeMobileMenu}>
+                    <Link to="/webquest/resources" className='nav-links' onClick={closeMobileMenu}>
                         Resources
-                    </a>
+                    </Link>
                 </li>
                 <li className='nav-item'>
-                    <a href="#eval" className='nav-links' onClick={closeMobileMenu}>
+                    <Link to="/webquest/evaluation" className='nav-links' onClick={closeMobileMenu}>
                         Evaluation
-                    </a>
+                    </Link>
                 </li>
                 <li className='nav-item'>
-                    <a href="#conclusion" className='nav-links' onClick={closeMobileMenu}>
+                    <Link to="/webquest/conclusion" className='nav-links' onClick={closeMobileMenu}>
                         Conclusion
-                    </a>
+                    </Link>
                 </li>
             </ul>
         </div>

@@ -1,16 +1,16 @@
 import '../../../App.css';
 import './WebQuest.css';
-import CardsIntro from '../../Cards/CardsIntro';
 import Navbar from '../../NavBar/Navbar';
-function WebQuest() {
+import CardsTasks from '../../Cards/CardsTasks';
+function WebQuestTasks() {
 
   return (
     <>
       <Navbar/>
-      <CardsIntro/>
+      <CardsTasks/>
     </>
   );
     
 }
 
-export default WebQuest;
+export default WebQuestTasks;
