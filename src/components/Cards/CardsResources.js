@@ -7,6 +7,7 @@ function CardsResources() {
     <div className='cards'>
 
         <h1 id="resources">⭒ Resources</h1>
+        <h2 className='subtitle'>Task 1</h2>
         <div className='cards__container'>
             <div className='cards__wrapper'>
                 <ul className='cards__items'>
@@ -102,6 +103,12 @@ function CardsResources() {
                         ]}
                     />
                 </ul>
+            </div>
+        </div>
+
+        <h2 className='subtitle'>Task 2</h2>
+        <div className='cards__container'>
+            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                 <CardItem
                     title='Group 2.1'

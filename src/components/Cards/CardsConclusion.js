@@ -16,15 +16,25 @@ function CardsConclusion() {
                 </ul>
                 <ul className='cards__items'>
                     <CardItem
-                    text='If you like to dig further into this subject, search for the work of:'
+                    text='If you’d like to dig further into this subject, search for the work of:'
+                    />
+                </ul>
+                <ul className='cards__items'>
+                    <CardItem
                     links= {[
                         {ref: "https://www.annefaustosterling.com/",
-                        label: "Dr. Anne Fausto-Sterling - a sexologist who has written about the biology of gender, sexual and gender identity, and gender roles"
-                        },
+                        label: "Dr. Anne Fausto-Sterling"
+                        }]
+                    }
+                    caption='A sexologist who has written about the biology of gender, sexual and gender identity, and gender roles'
+                    />
+                    <CardItem
+                    links= {[
                         {ref: "https://pt.wikipedia.org/wiki/Judith_Butler",
-                        label: "Judith Butler -  a philosopher and gender studies writer whose work has influenced different fields of queer theory and feminism"
-                        },
-                    ]}
+                        label: "Judith Butler"
+                        }]
+                    }
+                    caption='A philosopher and gender studies writer whose work has influenced different fields of queer theory and feminism'
                     />
                 </ul>
                 <ul className='cards__items'>

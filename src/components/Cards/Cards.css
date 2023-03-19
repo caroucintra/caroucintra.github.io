@@ -69,6 +69,13 @@
     line-height: 24px;
     white-space: pre-line;
   }
+    
+  .cards__item__caption {
+    color: #390071;
+    font-size: 15px;
+    line-height: 20px;
+    white-space: pre-line;
+  }
 
   .cards__item__title {
     text-align: center;

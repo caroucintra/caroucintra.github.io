@@ -12,7 +12,7 @@ function CardItem(props) {
               return <a className='cards__item__link' href={link?.ref}> ✦ {link?.label}</a>
             })}
           </div>
-          
+          <p className='cards__item__caption'> {props.caption} </p>
         </div>
       </li>
     </>

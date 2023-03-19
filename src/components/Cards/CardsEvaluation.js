@@ -8,6 +8,7 @@ function CardsEvaluation() {
     
       <h1 id="eval">⭒ Evaluation</h1>
         <h4>The following parameters will help grade and evaluate the quality of your work on each step of this WebQuest.</h4>
+        <h2 className='subtitle'>Task 1</h2>
         <div className='cards__container'>
             <div className='cards__wrapper'>
                 <ul className='cards__items'>
@@ -40,6 +41,12 @@ function CardsEvaluation() {
                     text={"This last step of the task asks you to conclude from the previous work, and suggest changes to the system we know.\nNow you know a little bit about being transgender, needing transitioning because of dysphoria, the material necessity of gender in our society and how it creates in imbalanced view of each gender. The goal for this question is to create even more empathy for this community, and hopefully conclude that a binary system can be hurtful to everyone, and we would all benefit from a broader view of gender and sex."}
                     />
                 </ul>
+            </div>
+        </div>
+
+        <h2 className='subtitle'>Task 2</h2>
+        <div className='cards__container'>
+            <div className='cards__wrapper'>
                 <ul className='cards__items'>
                     <CardItem
                     title='Step 2.1'
