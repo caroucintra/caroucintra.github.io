@@ -16,7 +16,7 @@ function CardsIntro() {
                 </ul>
                 <ul className='cards__items'>
                     <CardItem
-                    text='The purpose of this WebQuest is to tackle core and simple concepts of gender theory, to understand the view of gender as a spectrum, and bring awareness to the struggles of those who fight to make this theme broadly understood. Another goal is to get to know different and less-known gender identities. Later, there’s a possibility to dive deeper into some - not so simple - concepts and theories.'/>
+                    text='This WebQuest was created for teenagers and young adults and it can be done in 2 classes of 1h30 of duration. Its purpose is to tackle core and simple concepts of gender theory, to understand the view of gender as a spectrum, and bring awareness to the struggles of those who fight to make this theme broadly understood. Another goal is to get to know different and less-known gender identities. Later, there’s a possibility to dive deeper into some - not so simple - concepts and theories.'/>
                 </ul>
                 <ul className='cards__items'>
                     <CardItem

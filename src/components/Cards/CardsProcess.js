@@ -23,7 +23,7 @@ function CardsProcess() {
                 </ul>
                 <ul className='cards__items'>
                     <CardItem
-                    title='Similarities between gender and sex'
+                    title='Understanding gender transitioning'
                     text='In this step, you are going to look into transitioning. Using the resources in Group 1.3, write a paragraph that includes the answer to the following questions: What is gender transitioning? Is it necessary for every transgender person? How do people feel about themselves afterward?'
                     />
                     <CardItem
@@ -33,7 +33,7 @@ function CardsProcess() {
                 </ul>
                 <ul className='cards__items'>
                     <CardItem
-                    title='Understanding gender transitioning'
+                    title='Similarities between gender and sex'
                     text={"Similarly to the previous step, look into the resources listed in Group 1.5 and use the theories presented to answer the following counter-argument: Does the distinction between the two even matter? Is sex as we know it (a binary system created using a set of attributes that relate to either a ‘woman’ or a ‘man’) an entirely biological concept?\nFeel free to add your personal opinion to this answer. This question is the most complex one, and the theories presented are a matter of psychology still in debate."}
                     />
                     <CardItem
