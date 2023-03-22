@@ -34,7 +34,7 @@ function CardsEvaluation() {
                 <ul className='cards__items'>
                     <CardItem
                     title='Step 1.5'
-                    text='This step presents the hardest question to answer. It is very important to remember that this topic is still discussed between psychologists, and it’s a tricky opinion to understand of something very well known to every human being. Try to consider, besides your own opinion, the vision that the two sexes are a generalization of what is seen as a bimodal system with arbitrary attributes. Because of this question’s nature and complexity, the judgment to grade it is fully up to the teacher.'
+                    text='This step presents the hardest question to answer. It is very important to remember that this topic is still discussed between psychologists, and it’s a tricky opinion to understand of something very well known to every human being. Try to consider, besides your own opinion, the vision that the two sexes are a generalization of what is seen as a bimodal system, and what makes a man and a woman are arbitrary attributes. Because of this question’s nature and complexity, the judgment to grade it is fully up to the teacher.'
                     />
                     <CardItem
                     title='Step 1.6'
