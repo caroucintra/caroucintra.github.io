@@ -38,7 +38,7 @@ function CardsProcess() {
                     />
                     <CardItem
                     title='(un)Linking binary systems and the gender spectrum'
-                    text={"In this last step,  besides using the resources in Group 1.6, use the answers given in the previous steps. This step will focus on the conclusions you take from learning about the struggles and experiences that gender non-conforming people go through, understanding the concepts of gender and sex, their variations, and their inability to fit the binary format. \nDo a quick retrospective of what you’ve retained and answer the following: How does the binary view of gender and sex clash with the vision of these studies? What misconceptions in our vision of gender and sex do you think are unfair and unsafe for transgender people? What can be changed to accommodate everyone?"}
+                    text={"In this last step,  besides using the resources in Group 1.6, use the answers given in the previous steps. This step will focus on the conclusions you take from learning about the struggles and experiences that gender non-conforming people go through, understanding the concepts of gender and sex, their variations, and their inability to fit the binary format. \nDo a quick retrospective of what you’ve retained and create a brief paragraph that answers the following: What is a binary system? How does the binary view of gender and sex clash with the vision of these studies? What misconceptions in our vision of gender and sex do you think are unfair and unsafe for transgender people? What can be changed to accommodate everyone?"}
                     />
                 </ul>
             </div>
