@@ -15,7 +15,7 @@ const Data = [
         icon: "icon-graduation",
         year: "2022 - 2024",
         title: "Master's Degree",
-        desc: "At the Faculty of Engineering, University of Porto. Dissertation: Development of a multiplayer serious game for cognitive rehabilitation of patients with acquired brain injuries through a co-design process with patients, caregivers, and health professionals. Participation in conferences for the presentation of the thesis project as posters: ADITGameS III and IJUP 2024. Acceptance in the GALA Conf 2024 for the presentation of the thesis project as a poster and publication of the developed 6-pages article describing the work."
+        desc: "At the Faculty of Engineering, University of Porto. Dissertation: Development of a multiplayer serious game, CogniSpace, for cognitive rehabilitation of patients with acquired brain injuries through a co-design process with patients, caregivers, and health professionals. Participation in conferences for the presentation of the thesis project as posters: ADITGameS III, IJUP 2024 and Gala Conf 2024."
     },
     {
         id: 3,

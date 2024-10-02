@@ -12,12 +12,24 @@ function App() {
     <div className="App">
       <Sidebar />
       <main className='main'>
-        <Home/>
-        <About/>
-        <Resume/>
-        <Portfolio/>
-        <Blog/>
-        <Contact/>
+        <a name='home'>
+          <Home/>
+        </a>
+        <a name='about'>
+          <About/>
+        </a>
+        <a name='resume'>
+          <Resume/>  
+        </a>
+        <a name='portfolio'>
+          <Portfolio/>
+        </a>
+        <a name='blog'>
+          <Blog/>
+        </a>
+        <a name='contact'>
+          <Contact/>  
+        </a>
       </main>
     </div>
   );

@@ -1,6 +1,6 @@
 import React from 'react';
 import "./About.css"
-import AboutImg from "../../assets/avatar.svg"
+import AboutImg from "../../assets/carou.jpg"
 
 const About = () => {
   const onButtonClick = () => {
@@ -14,7 +14,7 @@ const About = () => {
   };
   return (
   <section className="about container section">
-    <h2 className="section_title">About Me</h2>
+    <h2 className="section__title">About Me</h2>
     <div className="about__container grid">
       <img src={AboutImg} alt="" className="about__img" />
       <div className="about__data grid">
@@ -25,7 +25,7 @@ const About = () => {
              you name it. I have worked with different programming languages and frameworks in the past and my two 
             biggest projects were softwares for healthcare (supporting applications 
             and serious games). My great passion is using technology to improve people's lives
-            and I'd love an opportunity to work in the field.
+            and I'm looking for opportunities to work in the field.
           </p>
           <button onClick={onButtonClick} className="btn">Download CV</button>
         </div>
