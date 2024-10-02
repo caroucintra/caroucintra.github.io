@@ -80,6 +80,10 @@ a {
   color: var(--second-color);
 }
 
+span, p {
+  color: var(--text-color);
+}
+
 button {
   cursor: pointer;
   border: none;
@@ -135,7 +139,7 @@ img {
   color: #fff;
   display: inline-block;
   background-color: var(--first-color);
-font-weight: var(--font-bold);
+  font-weight: var(--font-bold);
 }
 
 @keyframes button-push {

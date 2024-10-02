@@ -55,6 +55,7 @@
 @media only screen and (hover: none) and (pointer: coarse){
     .resume__container {
         grid-template-columns: repeat(1, 1fr);
+        row-gap: 1.5rem;
     }
     .timeline__text {
         display: none !important;

@@ -127,3 +127,9 @@
   left: 12%;
   bottom: 10%;
 }
+
+@media only screen and (hover: none) and (pointer: coarse){
+  .scroll__down {
+    display: none !important;
+  }
+}
