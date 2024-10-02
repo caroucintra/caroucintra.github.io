@@ -87,3 +87,23 @@
 .p100 {
     width: 100%;
 }
+
+@media only screen and (hover: none) and (pointer: coarse){
+    .about__container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .about__img {
+        max-width: 90%;
+        padding: 1rem;
+    }
+
+    .about__data {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .about__skills {
+        padding-top: 1.8rem;
+    }
+
+  }

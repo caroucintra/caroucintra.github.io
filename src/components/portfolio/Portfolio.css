@@ -96,3 +96,15 @@
     opacity: 1;
     transform: translateY(0);
 }
+
+@media only screen and (hover: none) and (pointer: coarse){
+    .work__container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .work__filters {
+        flex-wrap: wrap;
+        padding-left: 1.25rem;
+        padding-bottom: 1.25rem;
+    }
+}

@@ -60,3 +60,17 @@
 .blog__dot {
     font-weight: var(--font-bold);
 }
+
+@media only screen and (hover: none) and (pointer: coarse){
+    .blog__card {
+        min-width: 100px;
+    }
+
+    .blog__meta {
+        display: none !important;
+    }
+
+    .blog__container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

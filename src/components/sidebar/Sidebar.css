@@ -36,3 +36,9 @@
     transform: rotate(-180deg);
     writing-mode: vertical-rl;
 }
+
+@media only screen and (hover: none) and (pointer: coarse){
+    .aside {
+      display: none !important;
+    }
+}

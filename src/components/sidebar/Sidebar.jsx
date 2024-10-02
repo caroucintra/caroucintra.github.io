@@ -3,6 +3,8 @@ import "./Sidebar.css";
 import Logo from '../../assets/logo.svg';
 
 const Sidebar = () => {
+    const width = window.innerWidth;
+
     return (
         <aside className="aside">
             <a href= '#home' className="nav__logo">
