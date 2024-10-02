@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ac62830.css",
-    "main.js": "/static/js/main.42681beb.js",
+    "main.css": "/static/css/main.711b9691.css",
+    "main.js": "/static/js/main.8ddbba0d.js",
     "static/js/787.af57aaf9.chunk.js": "/static/js/787.af57aaf9.chunk.js",
+    "static/media/avatar2.svg": "/static/media/avatar2.8619ba1651b41562d0757081e964ca9b.svg",
+    "static/media/carou.jpg": "/static/media/carou.1322e3b29987bd21aa8d.jpg",
+    "static/media/emote1.png": "/static/media/emote1.ecd34efae9978958f147.png",
+    "static/media/terracota.svg": "/static/media/terracota.677594c5d98d62c39b5ad52cd81accc9.svg",
+    "static/media/vota.png": "/static/media/vota.4ea68bb930555c6bc9d4.png",
+    "static/media/cognispace.png": "/static/media/cognispace.884e63d9bd56e3eaaaa4.png",
+    "static/media/logo_carou.png": "/static/media/logo_carou.6192de257ca59071ec19.png",
+    "static/media/stars-c.svg": "/static/media/stars-c.d0678d1b012aa4a2182cfb96224f49a4.svg",
+    "static/media/logo.svg": "/static/media/logo.b912467820b22604357d595177e3e959.svg",
+    "static/media/stars-b.svg": "/static/media/stars-b.b4f3509f9b283064843bf89c031103bf.svg",
+    "static/media/stars-a.svg": "/static/media/stars-a.f2af1136be31aeaccd11526a213f090e.svg",
     "index.html": "/index.html",
-    "main.3ac62830.css.map": "/static/css/main.3ac62830.css.map",
-    "main.42681beb.js.map": "/static/js/main.42681beb.js.map",
+    "main.711b9691.css.map": "/static/css/main.711b9691.css.map",
+    "main.8ddbba0d.js.map": "/static/js/main.8ddbba0d.js.map",
     "787.af57aaf9.chunk.js.map": "/static/js/787.af57aaf9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ac62830.css",
-    "static/js/main.42681beb.js"
+    "static/css/main.711b9691.css",
+    "static/js/main.8ddbba0d.js"
   ]
 }
