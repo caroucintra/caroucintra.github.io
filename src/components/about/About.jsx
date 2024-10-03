@@ -20,9 +20,9 @@ const About = () => {
       <div className="about__data grid">
         <div className="about__info">
           <p className="about__description">My name is Carolina Figueira, a bilingual Software Engineer from 
-            Porto, Portugal. I just finished my Masters in Informatics and Computing Engineering. 
+            Porto, Portugal. I just finished my Masters in Informatics and Computing Engineering in September. 
             I love all things visual: UI/UX design, graphical interfaces in frontend or game development,
-             you name it. I have worked with different programming languages and frameworks in the past and my two 
+             you name it. I have worked with different programming languages and frameworks in the past and my 
             biggest projects were softwares for healthcare (supporting applications 
             and serious games). My great passion is using technology to improve people's lives
             and I'm looking for opportunities to work in the field.
