@@ -1,13 +1,13 @@
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import "./Contact.css";
+import Popup from 'reactjs-popup';
 
 const Contact = () => {
   const form = useRef();
 
   const sendEmail = (e) => {
     e.preventDefault();
-
     emailjs
       .sendForm(
         process.env.REACT_APP_SERVICE_ID, 
@@ -25,6 +25,8 @@ const Contact = () => {
           console.log('FAILED... ', error.text);
         },
       );
+
+
   };
   return (
     <section className="contact container section" id='contact'>
@@ -72,7 +74,21 @@ const Contact = () => {
               name='from_message'/>
             </div>
 
-            <input type='submit' className="btn contact__form-send" value="Send"/>
+            <Popup modal nested trigger={<input type='submit' className="btn contact__form-send" value="Send"/>}>
+            {
+              close => (
+                <div className="modal">
+                  <div className="contact__popup">Thank you for your message!</div>
+                  <div>
+                    <button className='btn contact__btn' onClick=
+                          {() => close()}>
+                              Close
+                      </button>
+                  </div>
+                </div>
+              )
+            }
+            </Popup>
         </form>
       </div>
     </section>

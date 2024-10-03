@@ -52,7 +52,7 @@
     margin: 0.5rem 0;
 }
 
-@media only screen and (hover: none) and (pointer: coarse){
+@media only screen and (max-width: 600px){
     .resume__container {
         grid-template-columns: repeat(1, 1fr);
         row-gap: 1.5rem;

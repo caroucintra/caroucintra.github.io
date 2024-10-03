@@ -48,7 +48,18 @@
     margin-top: 100px;
 }
 
-@media only screen and (hover: none) and (pointer: coarse){
+.modal {
+    border-radius: var(--border-radius);
+    background-color: var(--container-color);
+    box-shadow: var(--shadow);
+    padding: 1.875rem;
+}
+
+.contact__popup {
+    font-size: var(--h3-font-size);
+}
+
+@media only screen and (max-width: 600px){
     .contact__container {
         grid-template-columns: repeat(1, 1fr);
     }
