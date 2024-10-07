@@ -3,9 +3,6 @@ import React from 'react'
 const HeaderSocials = () => {
   return (
     <div className="home__socials">
-        <a href="https://www.instagram.com/caroucintra/" className="home__social-link" target='_blank'>
-        <i className="fa-brands fa-instagram"></i>
-        </a>
         <a href="https://br.pinterest.com/smooshycow/" className="home__social-link" target='_blank'>
         <i className="fa-brands fa-pinterest"></i>
         </a>
